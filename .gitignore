@@ -47,6 +47,9 @@ coverage.xml
 # Django stuff:
 *.log
 
+# cancer data
+*.txt
+
 # Sphinx documentation
 docs/_build/
 
